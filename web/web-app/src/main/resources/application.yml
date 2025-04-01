@@ -34,10 +34,5 @@ springdoc:
   default-flat-param-object: true
 
 
-#aliyun:
-#  sms:
-#    id值access-key-id:
-#    密钥：access-key-secret:
-#    endpoint:
 
 
